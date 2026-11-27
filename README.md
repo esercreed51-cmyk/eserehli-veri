@@ -1,6 +1,7 @@
 # eserehli-veri
 
-Eser Ehli Âlimlerin Sözleri uygulamasının okuduğu veri dosyaları.
+**Eseri Akide** uygulamasının okuduğu veri dosyaları.
+Program, **Eseri Creed** kanalı tarafından yönetilmektedir.
 
 ## durum.json
 
